@@ -1,5 +1,10 @@
+ID: 1
+Version: 2
+Project: Main
+Title: Calculator error
 Summary: Incorrect result of addition (+) for three-digit numbers in calculator
 Descriprion: Calculator gives wrong math result addition (+) of three-digit numbers (444+444=903). It is math Incorrect result
+Environment: Win 7
 Actual result: "В результате получилось: 903"
 Expected result: "В результате получилось: 888"
 Requirement ID: math
@@ -12,3 +17,4 @@ Steps to reproduce:
 3. click '+' button
 4. click '4' button three times
 5. click '=' button
+Attachment: No
